@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Alfi
-- 👀 I’m interested in developing a website
-- 🌱 I’m currently learning creative codes using Javascript and all stuffs related to front-end development
-- 📫 I'd be glad and appreciate if you could reach me at instagram @hialfi, twitter @workbyalfi, or email workbyalfi@gmail.com
+### 👋 Hi there, I'm Alfi!
+
+- 📊 I'm passionate about **data analysis**, **actuarial science**, and **statistical machine learning**.
+- 🌱 Currently diving deep into **Bayesian statistics**, **actuarial modeling**, and **statistical techniques**.
+- 🔍 I'm also exploring applications of **machine learning** in the insurance and finance sectors.
+- 📫 Feel free to reach out:
+  - LinkedIn: [Alfiyyah Hasanah](https://www.linkedin.com/in/alfiyyahhasanah/)
+  - Instagram: [@hialfi](https://instagram.com/hialfi)
+  - Email: workbyalfi@gmail.com
 
 <!---
 hialfi/hialfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
